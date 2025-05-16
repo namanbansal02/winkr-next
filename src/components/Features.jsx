@@ -109,7 +109,7 @@ const Features = () => {
                   viewport={{ once: true, amount: 0.5 }}
                 >
                   <div className="text-4xl sm:text-5xl mb-4">{feature.icon}</div>
-                  <h3 className="bg-clip-text text-transparent text-3xl font-family-intro mb-2">
+                  <h3 className="text-white text-3xl font-family-intro mb-2">
                     {feature.title}
                   </h3>
                   <p className="text-sm sm:text-base text-gray-400 text-center">

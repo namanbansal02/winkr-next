@@ -29,7 +29,7 @@ const Header = () => {
     >
       <div className="flex justify-between items-center w-full px-4">
         <Link href="/" className="text-white text-base sm:text-lg font-bold">
-          <Image
+          <img
             src="/winkr-logo-min.svg"
             alt="Winkr Logo"
             loading="lazy"
