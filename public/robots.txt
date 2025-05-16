@@ -1,0 +1,17 @@
+# Notice: Collection of data on Winkr through automated means is
+# prohibited unless you have express written permission from Winkr
+# and may only be conducted for the limited purpose contained in said
+# permission.
+# All authorized user-agents listed on this page must comply with Winkr’s Terms
+
+User-agent: *
+Allow: /
+
+# Block sensitive and unnecessary routes
+Disallow: /profile
+Disallow: /video-chat
+Disallow: /hangout
+
+
+# Specify the location of the sitemap
+Sitemap: https://winkr.live/sitemap.xml
